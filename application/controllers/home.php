@@ -20,6 +20,15 @@ class home extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('home_message');
+		$this->load->view('web/menuatas');
+		$this->load->view('web/menu');
+		$this->load->view('web/menubawah');
+	}
+
+	public function menuz()
+	{
+		$this->load->view('web/menuatas');
+		$this->load->view('web/menumenu');
+		$this->load->view('web/menubawah');
 	}
 }
