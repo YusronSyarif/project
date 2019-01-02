@@ -81,7 +81,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 					<ul>
 						<li><a href="<?php echo base_url();?>index.php/home/menuz ">Menu</a></li>
 						<li class="has-dropdown">
-							<a href="services.html">Services</a>
+							<a href="<?php echo base_url();?>index.php/home/service">Services</a>
 							<ul class="dropdown">
 								<li><a href="#">Food Catering</a></li>
 								<li><a href="#">Wedding Celebration</a></li>
