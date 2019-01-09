@@ -38,4 +38,11 @@ class home extends CI_Controller {
 		$this->load->view('web/menuservice');
 		$this->load->view('web/menubawah');
 	}
+
+	public function contact()
+	{
+		$this->load->view('web/menuatas');
+		$this->load->view('web/contact');
+		$this->load->view('web/menubawah');
+	}
 }

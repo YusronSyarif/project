@@ -88,7 +88,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 								<li><a href="#">Birthday's Celebration</a></li>
 							</ul>
 						</li>
-						<li><a href="contact.html">Contact</a></li>
+						<li><a href="<?php echo base_url();?>index.php/home/contact ">Contact</a></li>
 						<li class="btn-cta"><a href="#"><span>Reservation</span></a></li>
 					</ul>	
 				</div>
