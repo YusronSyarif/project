@@ -6,7 +6,7 @@
 
 					<div class="row row-mt-15em">
 						<div class="col-md-12 mt-text animate-box" data-animate-effect="fadeInUp">
-							<h1 class="cursive-font">Say hello!</h1>	
+							<h1 class="cursive-font">HELLO YOUR WELCOME</h1>	
 						</div>
 						
 					</div>

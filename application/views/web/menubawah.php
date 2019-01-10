@@ -3,8 +3,7 @@
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
 					<h2 class="cursive-font">Subscribe</h2>
-					<p>Be the first to know about the new templates.</p>
-				</div>
+				
 			</div>
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2">
@@ -53,9 +52,7 @@
 				</div>
 
 				<div class="col-md-12 text-center copyright">
-					<p><small class="block">&copy; 2016 Free HTML5. All Rights Reserved.</small> 
-						<small class="block">Designed by <a href="http://gettemplates.co/" target="_blank">GetTemplates.co</a> Demo Images: <a href="http://unsplash.com/" target="_blank">Unsplash</a></small></p>
-				</div>
+						
 
 			</div>
 

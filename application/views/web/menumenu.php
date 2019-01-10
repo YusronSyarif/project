@@ -105,9 +105,88 @@
 						<div class="fh5co-text">
 							<h2>Salad with Crispy Chicken</h2>
 							<p><span class="price cursive-font">Rp.50.000</span></p>
+						</div>	
+					</a>
+				</div>
+
+				<div class="col-lg-4 col-md-4 col-sm-6">
+					<a href="<?php echo base_url();?>images/orangejuice.jpeg" class="fh5co-card-item image-popup">
+						<figure>
+							<div class="overlay"><i class="ti-plus"></i></div>
+							<img src="<?php echo base_url();?>images/orangejuice.jpeg" alt="Image" class="img-responsive">
+						</figure>
+						<div class="fh5co-text">
+							<h2>orangejuice</h2>
+							<p><span class="price cursive-font">Rp.15.000</span></p>
 						</div>
 					</a>
 				</div>
+
+				<div class="col-lg-4 col-md-4 col-sm-6">
+					<a href="<?php echo base_url();?>images/milktea.jpeg" class="fh5co-card-item image-popup">
+						<figure>
+							<div class="overlay"><i class="ti-plus"></i></div>
+							<img src="<?php echo base_url();?>images/milktea.jpeg" alt="Image" class="img-responsive">
+						</figure>
+						<div class="fh5co-text">
+							<h2>milktea</h2>
+							<p><span class="price cursive-font">Rp.25.000</span></p>
+						</div>
+					</a>
+				</div>
+
+				<div class="col-lg-4 col-md-4 col-sm-6">
+					<a href="<?php echo base_url();?>images/moctail.jpeg" class="fh5co-card-item image-popup">
+						<figure>
+							<div class="overlay"><i class="ti-plus"></i></div>
+							<img src="<?php echo base_url();?>images/moctail.jpeg" alt="Image" class="img-responsive">
+						</figure>
+						<div class="fh5co-text">
+							<h2>moctail</h2>
+							<p><span class="price cursive-font">Rp.20.000</span></p>
+						</div>
+					</a>
+				</div>
+
+                <div class="col-lg-4 col-md-4 col-sm-6">
+					<a href="<?php echo base_url();?>images/milkshake.jpeg" class="fh5co-card-item image-popup">
+						<figure>
+							<div class="overlay"><i class="ti-plus"></i></div>
+							<img src="<?php echo base_url();?>images/milkshake.jpeg" alt="Image" class="img-responsive">
+						</figure>
+						<div class="fh5co-text">
+							<h2>milkshake</h2>
+							<p><span class="price cursive-font">Rp.30.000</span></p>
+						</div>
+					</a>
+				</div>
+
+				 <div class="col-lg-4 col-md-4 col-sm-6">
+					<a href="<?php echo base_url();?>images/coklatklasik.jpg" class="fh5co-card-item image-popup">
+						<figure>
+							<div class="overlay"><i class="ti-plus"></i></div>
+							<img src="<?php echo base_url();?>images/coklatklasik.jpg" alt="Image" class="img-responsive">
+						</figure>
+						<div class="fh5co-text">
+							<h2>coklatklasik</h2>
+							<p><span class="price cursive-font">Rp.35.000</span></p>
+						</div>
+					</a>
+				</div>
+
+				 <div class="col-lg-4 col-md-4 col-sm-6">
+					<a href="<?php echo base_url();?>images/mochacino.jpeg" class="fh5co-card-item image-popup">
+						<figure>
+							<div class="overlay"><i class="ti-plus"></i></div>
+							<img src="<?php echo base_url();?>images/mochacino.jpeg" alt="Image" class="img-responsive">
+						</figure>
+						<div class="fh5co-text">
+							<h2>mochacino</h2>
+							<p><span class="price cursive-font">Rp.30.000</span></p>
+						</div>
+					</a>
+				</div>
+
 
 			</div>
 		</div>
